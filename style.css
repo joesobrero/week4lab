@@ -2,7 +2,7 @@ html, body {
     width: 100%;
 }
 
-img {
+#img {
     position: absolute;
     left: 25px;
     top: 25px;
