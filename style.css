@@ -3,9 +3,12 @@ html, body {
 }
 
 #img {
-    position: absolute;
     left: 25px;
     top: 25px;
     height: 175px;
     width: 175px;
+}
+
+h1 {
+    text-align: center;
 }
